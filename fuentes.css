@@ -1,0 +1,65 @@
+#cabecera{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    border-color: black;
+    
+}
+#cabecera p{
+
+ font-size: 30px;
+ padding-top: 10px;
+ padding-right: 50px;
+
+}
+
+#indice {
+    text-transform: lowercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: white;
+    
+}
+
+#indice p{
+    padding-left: 90px;
+    padding-top: 50px;
+}
+
+#contenido{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#piedepagina{
+    font-weight: bold;
+    text-align: center;
+}
+
+#contenido p{
+
+
+    color: white;
+    padding-left: 90px;
+    padding-top: 50px;
+}
+
+li{
+   list-style: inside;
+   text-indent: 60px;
+}
+
+#indice ol{
+    text-indent: 20px;
+}
+
+#contenido p{
+    margin-top: 230px;
+    margin-left: 150px;
+    margin-right: 250px;
+    text-align: justify;
+    line-height: 180%;
+}
+

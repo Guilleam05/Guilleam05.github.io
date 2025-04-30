@@ -1,0 +1,34 @@
+body{
+    background-image: url('fondo4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#indice{
+
+    background-image: url('fondo2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#piedepagina{
+
+    background-image: url('fondo5.jpeg');
+    
+}
+
+#contenido{
+
+    background-image: url('fondo1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cabecera{
+
+    background-image: url('fondo4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
